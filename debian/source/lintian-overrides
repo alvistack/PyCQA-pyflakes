@@ -1,0 +1,3 @@
+python-pyflakes source: no-debian-changes
+python-pyflakes source: source-contains-prebuilt-windows-binary
+python-pyflakes source: source-package-encodes-python-version
