@@ -1,0 +1,5 @@
+python-pyflakes (100:3.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/PyCQA/pyflakes/releases/tag/3.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 30 Jul 2023 13:25:44 +0900
