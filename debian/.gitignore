@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+pyflakes3
+python3-pyflakes
+tmp
