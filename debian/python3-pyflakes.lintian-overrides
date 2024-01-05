@@ -1,0 +1,4 @@
+python3-pyflakes: copyright-without-copyright-notice
+python3-pyflakes: initial-upload-closes-no-bugs
+python3-pyflakes: no-manual-page
+python3-pyflakes: zero-byte-file-in-doc-directory
